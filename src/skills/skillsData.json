@@ -1,0 +1,168 @@
+[
+  {
+    "name": "Angular (2+)",
+    "data": {
+      "datasets": [
+        {
+          "data": [
+            100
+          ],
+          "backgroundColor": [
+            "#1abc9c"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "AngularJS",
+    "data": {
+      "datasets": [
+        {
+          "data": [
+            100
+          ],
+          "backgroundColor": [
+            "#1abc9c"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "Typescript",
+    "data": {
+      "datasets": [
+        {
+          "data": [
+            90,
+            10
+          ],
+          "backgroundColor": [
+            "#1abc9c",
+            "#ecf0f1"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "Coffeescript",
+    "data": {
+      "datasets": [
+        {
+          "data": [
+            90,
+            10
+          ],
+          "backgroundColor": [
+            "#1abc9c",
+            "#ecf0f1"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "NodeJs",
+    "data": {
+      "datasets": [
+        {
+          "data": [
+            80,
+            20
+          ],
+          "backgroundColor": [
+            "#1abc9c",
+            "#ecf0f1"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "Electron",
+    "data": {
+      "datasets": [
+        {
+          "data": [
+            60,
+            40
+          ],
+          "backgroundColor": [
+            "#1abc9c",
+            "#ecf0f1"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "Python",
+    "data": {
+      "datasets": [
+        {
+          "data": [
+            50,
+            50
+          ],
+          "backgroundColor": [
+            "#1abc9c",
+            "#ecf0f1"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ruby",
+    "data": {
+      "datasets": [
+        {
+          "data": [
+            50,
+            50
+          ],
+          "backgroundColor": [
+            "#1abc9c",
+            "#ecf0f1"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "Go",
+    "data": {
+      "datasets": [
+        {
+          "data": [
+            50,
+            50
+          ],
+          "backgroundColor": [
+            "#1abc9c",
+            "#ecf0f1"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "AWS",
+    "data": {
+      "datasets": [
+        {
+          "data": [
+            50,
+            50
+          ],
+          "backgroundColor": [
+            "#1abc9c",
+            "#ecf0f1"
+          ]
+        }
+      ]
+    }
+  }
+]
